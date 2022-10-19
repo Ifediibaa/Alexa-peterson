@@ -1,0 +1,76 @@
+
+
+.container{
+    background-image:url(download\ ldi.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    width: 1000px;
+    height: 500px;
+    margin-left: 318px;
+    padding-bottom: 5px;
+    margin-bottom: 110px;
+    padding-top :1.1em;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-right: 100px;
+    
+}
+.alexa{
+    font-family: cursive;        
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+}
+.coming{
+    font-size: 50px;
+   font-family: 'Edu QLD Beginner', cursive;
+    font-style: italic;
+    margin-left: 25px;
+    color:rgb(255, 255, 255) ;
+}
+.almost{
+    color: rgb(186, 208, 208);
+    margin-left: 25px;
+}
+
+input{
+    border-radius: 6px;
+    padding-top: 4px;
+    margin-top: 8px;
+    margin-left: 25px;
+}
+.name{
+    width: 300px;
+}
+button{
+    background-color: rgb(255, 153, 0);
+    color: rgb(249, 249, 249);
+    padding: 7px;
+    border-radius: 7px;
+}
+.preserved{
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+    font-family: serif;
+    font-size: 10px;
+    
+}
+.class{
+    margin-top: 115px;
+}
+.almost{
+    color: white;
+}
+.links{
+    margin-bottom:5px;
+}
+i{
+    color: white;
+    margin-left: 25px;
+    size: 50px;
+   
+
+}
